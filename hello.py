@@ -1,3 +1,5 @@
+# To je moj program
+
 def hello(s):
     print("Hello " + s)
 
@@ -9,4 +11,3 @@ def sestevanje(a, b):
 
 hello("student")
 print(sestevanje(1,3))
-print("test")
